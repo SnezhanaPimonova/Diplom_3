@@ -7,7 +7,7 @@ import pages.LoginPage;
 import pages.MainPage;
 import pages.RegistrationPage;
 
-public class RegistrationTest extends TestBase {
+public class RegistrationTest extends BaseTest {
 
     @Test
     @DisplayName("Регистрация пользователя с валидными данными")

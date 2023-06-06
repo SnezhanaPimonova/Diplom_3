@@ -5,7 +5,7 @@ import pages.LoginPage;
 import pages.MainPage;
 import pages.ProfilePage;
 
-public class GoToProfileTest extends TestBase {
+public class GoToProfileTest extends BaseTest {
     @Test
     @DisplayName("Переход в личный кабинет по клику на Личный кабинет для неавторизованного пользователя")
     public void goToProfileWithoutAuthTest() {

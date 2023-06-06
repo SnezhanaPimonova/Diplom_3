@@ -3,7 +3,7 @@ import org.junit.Test;
 import pages.*;
 import io.qameta.allure.junit4.DisplayName;
 
-public class LogInTest extends TestBase {
+public class LogInTest extends BaseTest {
 
     @Test
     @DisplayName("Вход по кнопке 'Войти в аккаунт' на главной странице")

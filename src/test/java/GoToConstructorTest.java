@@ -7,7 +7,7 @@ import pages.ProfilePage;
 
 import static org.junit.Assert.assertTrue;
 
-public class GoToConstructorTest extends TestBase {
+public class GoToConstructorTest extends BaseTest {
 
     @Test
     @DisplayName("Переход из личного кабинета в Конструктор по клику на Конструктор")

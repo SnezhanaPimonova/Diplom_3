@@ -5,7 +5,7 @@ import pages.MainPage;
 
 import static org.junit.Assert.assertEquals;
 
-public class ConstructorTest extends TestBase {
+public class ConstructorTest extends BaseTest {
     @Test
     @DisplayName("Переход к разделу Булки")
     public void bunButtonClickTest() {

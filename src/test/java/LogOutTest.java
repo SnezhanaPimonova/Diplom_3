@@ -6,7 +6,7 @@ import pages.LoginPage;
 import pages.MainPage;
 import pages.ProfilePage;
 
-public class LogOutTest extends TestBase {
+public class LogOutTest extends BaseTest {
 
     @Test
     @DisplayName("Выход из профиля через кнопку 'Выход' в личном кабинете")
